@@ -1,14 +1,14 @@
 <div>
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>Lin Xiao</h1>
       <p><b></b></p>
       <p><b>Ph.D. Candidate  </b></p>
       <p><b> Beijing Jiaotong University </b></p>
       <p><b>Email：xiaolin@bjtu.edu.cn</b></p>
     </td>
-    <td width="25%">
+    <td width="30%">
       <img src="/xiaolin.jpg" width="100%">
     </td>
   </tr>
