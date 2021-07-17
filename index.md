@@ -6,7 +6,8 @@ layout: homepage
 
 I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU). I am lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
 
-I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in a broad range of multi-label classification, long-tailed classification, transfer learning.
+I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in multi-label classification, long-tailed classification, transfer learning.
+My Email: xiaolin@bjtu.edu.cn.
 
 ***
 # Research Interests
