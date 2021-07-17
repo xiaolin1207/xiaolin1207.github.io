@@ -34,7 +34,7 @@ I strive for developing novel machine learning and natural language processing a
 - 2013 - 2017,B.S., Liaoning Normal University, School of Computer and Information Technology.
 
 
-##Publications
+## Publications
 
 - **Label-specific Document Representation for Multi-label Text Classification.**
   <br>
