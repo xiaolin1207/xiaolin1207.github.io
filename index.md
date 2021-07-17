@@ -30,8 +30,14 @@ I strive for developing novel machine learning and natural language processing a
 - Imbalanced/Long-tailed Classification
 
 ## Education
-- 2017 - Now, Ph.D. candidate, Beijing Jiaotong University, School of Computer and Information Technology. Supervisor: Prof. Liping Jing
-- 2013 - 2017,B.S., Liaoning Normal University, School of Computer and Information Technology.
+- 2017 - Now, Ph.D. candidate
+<br>
+Beijing Jiaotong University, School of Computer and Information Technology
+<br>
+Supervisor: Prof. Liping Jing
+- 2013 - 2017,B.S.
+<br>
+Liaoning Normal University School of Computer and Information Technology
 
 
 ## Publications
@@ -62,7 +68,11 @@ I strive for developing novel machine learning and natural language processing a
   [[PDF]](https://arxiv.org/abs/1905.10802)
 
 ## Experience
-- 2019.12 - 2021.05, Visiting Student, King Abdullah University of Science and Technology, Jeddah, Saudi Arabia. Advisor: Prof. [Xiangliang Zhang](https://mine.kaust.edu.sa/Pages/ZhangX.aspx)
+- 2019.12 - 2021.05, Visiting Student
+<br>
+King Abdullah University of Science and Technology, Jeddah, Saudi Arabia. 
+<br>
+Advisor: Prof. [Xiangliang Zhang](https://mine.kaust.edu.sa/Pages/ZhangX.aspx)
   
 ## Skills
 - Programming Language: Python (most frequently used), C/C++
