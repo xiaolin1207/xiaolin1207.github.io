@@ -70,7 +70,7 @@ Liaoning Normal University School of Computer and Information Technology
 ## Experience
 - 2019.12 - 2021.05, Visiting Student
 <br>
-King Abdullah University of Science and Technology, Jeddah, Saudi Arabia. 
+King Abdullah University of Science and Technology 
 <br>
 Advisor: Prof. [Xiangliang Zhang](https://mine.kaust.edu.sa/Pages/ZhangX.aspx)
   
