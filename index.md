@@ -26,25 +26,25 @@ I strive for developing novel machine learning and natural language processing a
   **Lin Xiao**, Xin Huang, Boli Chen, Liping Jing
   <br>
   Proceedings the Conference on Empirical Methods in Natural Language Processing. (**EMNLP 2019**), 
-  [[PDF]](https://aclanthology.org/D19-1044/){:target="_blank"}  [[Code]](https://github.com/EMNLP2019LSAN/LSAN/){:target="_blank"} 
+  [[PDF]](https://aclanthology.org/D19-1044/)  [[Code]](https://github.com/EMNLP2019LSAN/LSAN/)
 - **Does Head Label Help for Long-Tailed Multi-Label Text Classification**
   <br>
   **Lin Xiao**, Xiangliang Zhang, Liping Jing, Huang Chi
   <br>
   Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2021**)
-  [[PDF]](https://arxiv.org/abs/2101.09704){:target="_blank"}  [[Code]](https://github.com/xiaolin1207/HTTN-master){:target="_blank"}  [[Slides]](./slides/SST-EmotionNet_slides.pdf){:target="_blank"}
+  [[PDF]](https://arxiv.org/abs/2101.09704)  [[Code]](https://github.com/xiaolin1207/HTTN-master)
 - **Hyperbolic Capsule Networks for Multi-Label Classification**
   <br>
   Boli Chen, Xin Huang, **Lin Xiao**, Liping Jing
   <br>
   Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. (**ACL 2020**).
-  [[PDF]](https://aclanthology.org/2020.acl-main.283/){:target="_blank"} 
+  [[PDF]](https://aclanthology.org/2020.acl-main.283/)
 - **Hyperbolic interaction model for hierarchical multi-label classification**
   <br>
   Boli Chen, Xin Huang, **Lin Xiao**, Zixin Cai, Liping Jing
   <br>
    Proceedings of the AAAI Conference on Artificial Intelligence. (**AAAI 2020**)
-  [[PDF]](https://arxiv.org/abs/1905.10802){:target="_blank"}
+  [[PDF]](https://arxiv.org/abs/1905.10802)
 
 # Experience
 - 2019.12 - 2021.05, Visiting Student, King Abdullah University Of Science And Technology, Jeddah, Saudi Arabia. Advisor: Prof. Xiangliang Zhang
