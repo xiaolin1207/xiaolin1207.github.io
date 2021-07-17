@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU). I am lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/){:target="_blank"}. 
+I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU). I am lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
 
 I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in a broad range of multi-label classification, long-tailed classification, transfer learning.
 
@@ -57,5 +57,5 @@ I strive for developing novel machine learning and natural language processing a
 # Hobbies
 - Sports: playing badminton, swimming, spinning
 
-<script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
