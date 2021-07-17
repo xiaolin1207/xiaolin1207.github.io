@@ -47,7 +47,7 @@ I strive for developing novel machine learning and natural language processing a
   [[PDF]](https://arxiv.org/abs/1905.10802)
 
 # Experience
-- 2019.12 - 2021.05, Visiting Student, King Abdullah University Of Science And Technology, Jeddah, Saudi Arabia. Advisor: Prof. Xiangliang Zhang
+- 2019.12 - 2021.05, Visiting Student, King Abdullah University of Science and Technology, Jeddah, Saudi Arabia. Advisor: Prof. Xiangliang Zhang
   
 # Skills
 - Programming Language: Python (most frequently used), C/C++
