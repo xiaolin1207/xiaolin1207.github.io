@@ -6,9 +6,6 @@
       <p><b></b></p>
       <p><b>Ph.D. Candidate  </b></p>
       <p><b> Beijing Jiaotong University </b></p>
-      I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU). I am lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
-
-I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in a broad range of multi-label classification, long-tailed classification, transfer learning.
       <p><b>Email：xiaolin@bjtu.edu.cn</b></p>
     </td>
     <td width="25%">
@@ -20,7 +17,7 @@ I strive for developing novel machine learning and natural language processing a
 <!-- 
 --- -->
 
-I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU). I am lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
+I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU), and lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
 
 I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in a broad range of multi-label classification, long-tailed classification, transfer learning.
 
