@@ -19,7 +19,7 @@
 
 I am a Ph.D. Candidate at Beijing Jiaotong University (BJTU), and lucky enough to work with Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/). 
 
-I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in a broad range of multi-label classification, long-tailed classification, transfer learning.
+I strive for developing novel machine learning and natural language processing algorithms. In addition, I am also interested in multi-label classification, long-tailed classification, transfer learning.
 
 ---
 
@@ -27,7 +27,7 @@ I strive for developing novel machine learning and natural language processing a
 ## Research Interests
 - In general: Machine Learning, Natural Language Processing
 - Multi-label Text Classification
-- Imbalanced/Long-tailed Classification, Few-shot learning
+- Imbalanced/Long-tailed Classification
 
 ## Education
 - 2017 - Now, Ph.D. candidate, Beijing Jiaotong University, School of Computer and Information Technology. Supervisor: Prof. Liping Jing
